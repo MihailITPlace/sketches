@@ -1,0 +1,26 @@
+###########################################
+# Syntax Coloring Map For HCSR04
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+HCSR04	KEYWORD1
+HC-SR04	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+begin	KEYWORD2
+getDistanceMm	KEYWORD2
+getDistanceCm	KEYWORD2
+getDistanceInch	KEYWORD2
+getDistanceMmFloat	KEYWORD2
+getDistanceCmFloat	KEYWORD2
+getDistanceInchFloat	KEYWORD2
+getErrorCode	KEYWORD2
+getDuration	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
